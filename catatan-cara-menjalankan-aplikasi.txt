@@ -1,0 +1,17 @@
+# Cara memakai aplikasi ini :
+1. masuk ke direktori /uas-pemrograman-4
+2. buat database namanya 'uas_pemrograman_4'
+3. ketikan perintah :
+	- composer intall
+	- npm install
+	- php artisan migrate --seed
+	- php artisan serve
+4. buka web browser dengan url localhost:8000
+
+# Fitur - fitur :
+1. login
+2. pendaftaran bem
+3. home user & admin ( profil )
+
+# Github
+https://github.com/begusibrahim000/uas-pemrograman-4
